@@ -31,7 +31,9 @@
 # }
 
 def naming_system
-  naming_system= {}
+  naming_system= {
+    :kingdom
+  }
 
   
   # Remember:
