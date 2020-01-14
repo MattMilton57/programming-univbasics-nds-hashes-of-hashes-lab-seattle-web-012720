@@ -49,8 +49,6 @@ def naming_system
                    
                  }
               }
-                
-              }
            }
          }
         }
