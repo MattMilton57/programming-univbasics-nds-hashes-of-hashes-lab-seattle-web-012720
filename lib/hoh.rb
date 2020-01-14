@@ -31,7 +31,7 @@
 # }
 
 def naming_system
-  
+  Animalz
   :label=> "Kingdom" {
       :label=> "Phylum",
       :label=> "Class",
