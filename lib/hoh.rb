@@ -38,7 +38,10 @@ def naming_system
       :sub_category=>{
         :label=>"Class",
         :sub_category=>{
-         
+         :label=>"order",
+         :sub_category=>{
+           
+         }
         }
       }
     }
