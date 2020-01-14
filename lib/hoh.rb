@@ -32,9 +32,9 @@
 
 def naming_system
   kingdom= {
-      :Phylum=>{},
-      :Class=>{},
-      :Order=>{}
+      :label=> "Phylum",
+      :label=>{},
+      :label=>{}
     }
   
 
