@@ -31,11 +31,11 @@
 # }
 
 def naming_system
-  Animalz
+  animalz ={
   :label=> "Kingdom" {
       :label=> "Phylum",
       :label=> "Class",
-      :label=> "Order"
+      :label=> "Order"}
     }
   
 
