@@ -32,7 +32,13 @@
 
 def naming_system
   animalz ={
-  :label=> "Kingdom"
+  :label=> "Kingdom"{
+    :label=> "Phylum"{
+      :label=> "Class"{
+        :label=> "Order"
+      } 
+    }
+  }
   }
   
 
