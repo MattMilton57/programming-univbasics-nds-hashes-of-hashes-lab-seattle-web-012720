@@ -31,7 +31,13 @@
 # }
 
 def naming_system
-  :kingdom ={
+  animalz = {
+    :label=>"Kingdom",
+    :sub_category=>{
+      :label=>"Phylum",
+      :sub_category
+    }
+  }
 
   
 
