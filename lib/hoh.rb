@@ -30,21 +30,8 @@
 #   sub_category: nil
 # }
 
-def naming_system={
-    :Kingdom=>{
-      :Phylum=>{}
-      :Class=>{}
-    :Order=>{
-            :Family=>{
-              :Genus=>{
-                :Species=>{}
-              }
-            }
-          }
-        }
-      }
-    }
-  }
+def naming_system={}
+
   
   # Remember:
   #  Kingdom
