@@ -31,7 +31,8 @@
 # }
 
 def naming_system
-  kingdom= {
+  
+  :label=> "Kingdom" {
       :label=> "Phylum",
       :label=> "Class",
       :label=> "Order"
