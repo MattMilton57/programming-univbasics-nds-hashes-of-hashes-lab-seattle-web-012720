@@ -31,7 +31,6 @@
 # }
 
 def naming_system
-  naming_system= {
     :Kingdom=>{
       :Phylum=>{
         :Class=>{
@@ -46,7 +45,7 @@ def naming_system
       }
     }
   }
-  }
+  
   # Remember:
   #  Kingdom
   #  Phylum
