@@ -31,13 +31,12 @@
 # }
 
 def naming_system
-  naming_system= {
-    :Kingdom=>{
-      :Phylum=>{},
-      :Class=>{},
-      :Order=>{}
+    :Kingdom=> {
+      :Phylum=> {},
+      :Class=> {},
+      :Order=> {}
     }
-  }
+  
 
   
   # Remember:
